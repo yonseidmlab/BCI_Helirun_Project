@@ -92,7 +92,7 @@ SSD: 삼성전자 970 EVO Plus M.2 2280 (1TB)
 그래픽 카드: Radeon VII
 
 ### BCI 기기 정보
-Muse
+Muse (Version 1) 
 
 ### 연락처
 문제가 있을 시 ysdesigntech@gmail.com 으로 연락 바랍니다.
