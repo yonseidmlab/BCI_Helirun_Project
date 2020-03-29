@@ -7,7 +7,7 @@
 
 전체 유니티 프로젝트는 아래의 링크를 참조하세요.
 
-![Unity 실행 창](/Users/soyeonkim/Desktop/unity)
+![Unity 실행 창](unity.png)
 
 [유니티 프로젝트 link](https://drive.google.com/drive/folders/1kH4A9p2Ql3PIxMibrg8pIeuNDG39J9uf?usp=sharing)
 
