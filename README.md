@@ -2,9 +2,11 @@
 연세대학교 생활디자인학과 디지털미디어연구실에서는 한국연구재단 과학문화전시서비스 역량강화지원사업(NRF-2018X1A3A1070352)에서 지원을 받아 ‘뇌과학 가치확산을 위한 과학문화 전시 VR/AR 콘텐츠 개발’ 프로젝트를 진행하고 있으며,  본 프로젝트에서 개발한 콘텐츠 '헬리런'에 관련된 코드 설명입니다.
 
 전반적인 설치 가이드라인에 대해선 아래의 링크를 참조하세요. 
+
 https://docs.google.com/document/d/1uWdjW5s1uQayeMgwd3Y5VtT6Q42U3DMjzesE2Jti14Y/edit#
 
 전체 유니티 프로젝트는 아래의 링크를 참조하세요.
+
 https://drive.google.com/drive/folders/1kH4A9p2Ql3PIxMibrg8pIeuNDG39J9uf?usp=sharing
 
 게임의 최종 버전은 아래의 링크를 참조하세요 (윈도우 버전, .exe 파일) 
