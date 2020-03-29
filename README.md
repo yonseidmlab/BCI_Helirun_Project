@@ -3,14 +3,17 @@
 
 전반적인 설치 가이드라인에 대해선 아래의 링크를 참조하세요. 
 
-https://docs.google.com/document/d/1uWdjW5s1uQayeMgwd3Y5VtT6Q42U3DMjzesE2Jti14Y/edit#
+[설치 가이드라인 link](https://docs.google.com/document/d/1uWdjW5s1uQayeMgwd3Y5VtT6Q42U3DMjzesE2Jti14Y/edit#)
 
 전체 유니티 프로젝트는 아래의 링크를 참조하세요.
 
-https://drive.google.com/drive/folders/1kH4A9p2Ql3PIxMibrg8pIeuNDG39J9uf?usp=sharing
+![Unity 실행 창](/Users/soyeonkim/Desktop/unity)
+
+[유니티 프로젝트 link](https://drive.google.com/drive/folders/1kH4A9p2Ql3PIxMibrg8pIeuNDG39J9uf?usp=sharing)
 
 게임의 최종 버전은 아래의 링크를 참조하세요 (윈도우 버전, .exe 파일) 
-https://drive.google.com/file/d/1RnjrvHE05DU5xG2w4jgB0-hkp3yAqXx8/view?usp=sharing
+
+[게임 최종 버전 link](https://drive.google.com/file/d/1RnjrvHE05DU5xG2w4jgB0-hkp3yAqXx8/view?usp=sharing)
 
 코드는 5개의 구분으로 나뉘어져 있으나, 실제 Unity 내 구분이 아니라 사용자의 편의를 위한 구분입니다. 각 구분별로 코드별 상세 설명을 참조 후 사용 바랍니다. 
 
