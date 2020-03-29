@@ -4,11 +4,17 @@
 전반적인 설치 가이드라인에 대해선 아래의 링크를 참조하세요. 
 https://docs.google.com/document/d/1uWdjW5s1uQayeMgwd3Y5VtT6Q42U3DMjzesE2Jti14Y/edit#
 
+전체 유니티 프로젝트는 아래의 링크를 참조하세요.
+https://drive.google.com/drive/folders/1kH4A9p2Ql3PIxMibrg8pIeuNDG39J9uf?usp=sharing
+
+게임의 최종 버전은 아래의 링크를 참조하세요 (윈도우 버전, .exe 파일) 
+https://drive.google.com/file/d/1RnjrvHE05DU5xG2w4jgB0-hkp3yAqXx8/view?usp=sharing
+
 코드는 5개의 구분으로 나뉘어져 있으나, 실제 Unity 내 구분이 아니라 사용자의 편의를 위한 구분입니다. 각 구분별로 코드별 상세 설명을 참조 후 사용 바랍니다. 
 
 ## 1. Asset
 ### Asset Spreader
-사용자 지정 asset 을 지정된 범위내에서 렌덤으로 배치합니다. Circle 은 원형으로, 일반은 직사각형 모양으로 구성되며, 게임 플레이 당시에만 보여집니다. CPU를 많이 사용하는 경향이 있어 사용시 주의해야 합니다. 
+사용자 지정 asset 을 지정된 범위내에서 렌덤으로 배치합니다. Circle 은 원형으로, 일반은 직사각형 모양으로 구성되며, 게임 플레이 당시에만 보여집니다. CPU를 많이 사용하니 주의해야 합니다. 
 ### Floater
 사용자 지정 asset 을 둥둥 띄운것처럼 움직이게 합니다. 움직임의 높이를 지정할 수 있으며, 움직임의 속도 또한 지정할 수 있습니다. 
 ### Image Swap 
@@ -31,14 +37,12 @@ OSC 데이터를 받는 코드입니다. 개발 과정에선 BCI 데이터를 �
 각 캐릭터 밑에서 뇌파의 변화를 보여주는 그래프를 생성하는 코드입니다. 
 
 ## 3. Depress
-### Depress Particle
-우울이 캐릭터에서 나오는 파티클을 조절하는 코드입니다. 
 ### Depress 
 우울이가 파티클을 맞으면 사라지는 코드입니다. 같은 코드를 다른 asset 이 가지고 있는 경우 한개의 global variable 로 취급되어 우울이 별로 각각 다른 이름의 코드가 필요합니다. 
 
 ## 4. Helirun
 ### Helirun Move 
-헬리런이 위아래로 움직이게 하는 코드입니다. 뇌파 데이터에 따라 다르게 움직이며, 뇌파의 상위 하위 제한점은 지정 가능합니다.  
+헬리런이 위아래로 움직이게 하는 코드입니다. 뇌파 데이터에 따라 다르게 움직이며, 뇌파의 상위 하위 제한점은 지정 가능합니다. 현재   
 
 ## 5.Particle
 ### Send Particle
